@@ -32,3 +32,9 @@ Edge cases not accounted for
 2. Documentation `http://guides.rubygems.org/make-your-own-gem/#documenting-code`
 3. Refactor
 4. Rename to `ShootDeploy`?
+
+##Contributing:
+1. Git clone this repository
+2. Make changes to code
+3. gem build shoots_deploy.gemspec
+4. gem install ./shoots_deploy-<version-number>.gem
