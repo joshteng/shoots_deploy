@@ -9,6 +9,7 @@ I personally love hosting my static websites on Amazon S3 because it's ridiculou
 This gem allows you to deploy static websites to your Amazon S3 by simply typing in command line in the root directory of your site.
 
 ```
+gem install shoots_deploy
 shoots
 ```
 
